@@ -1,0 +1,4 @@
+1,Beltrano Pereira,8.5,6.1
+2,Fulana Teixeira,7.5,6.3
+3,Fulano Silveira,8.8,9.3
+4,Beltrana Correia,7.5,7.3
